@@ -1,0 +1,7 @@
+Linear Regration
+Logictic Regrations
+Decsion Tree
+Neural Network (Single or MultiLayer Perceptron)
+Support Vector Machine
+k nearest neighbor 
+K mean
