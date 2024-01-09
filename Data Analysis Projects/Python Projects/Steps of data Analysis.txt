@@ -1,0 +1,5 @@
+Create Probem Statement.
+Identiyfy data you want to analyze.
+Explore and clean data.
+Analyze the data to get useful insights.
+Present the data in terms of reports or dashboards using visualization.
